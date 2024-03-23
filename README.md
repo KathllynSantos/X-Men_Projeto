@@ -15,7 +15,7 @@ Espero que você se divirta tanto quanto eu ao criar este projeto. Sinta-se à v
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt=JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-## Imagem do Projeto! 
+## Imagem do Projeto:
 
 ![image](https://github.com/KathllynSantos/X-Men_Projeto/assets/120657741/35973048-ab5f-4bfc-9929-a8e7e309aa32)
 
